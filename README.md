@@ -1,2 +1,9 @@
-# yservice-chrome
-simple chrome extension for github.com/kmwenja/yservice-chrome
+yservice-chrome
+===============
+
+simple chrome extension for [yservice](github.com/kmwenja/yservice)
+
+TODO
+----
+
+- [ ] screenshots
